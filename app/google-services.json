@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297887136806",
+    "project_id": "mathtest-903d6",
+    "storage_bucket": "mathtest-903d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297887136806:android:278578a6d43356ac1ebae7",
+        "android_client_info": {
+          "package_name": "com.example.mathtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297887136806-u4btngtc8iu1m3ma8osqrp6b24ovelus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeLW_UfRlUGAKpGWUa15V0lLmi-_at5PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297887136806-u4btngtc8iu1m3ma8osqrp6b24ovelus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
